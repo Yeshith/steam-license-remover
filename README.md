@@ -38,10 +38,6 @@ The file includes a `==UserScript==` metadata block, so it can be installed dire
 
 Removing licenses in quick succession appears to trigger a temporary rate limit from Steam. A 6-minute gap between removals has proven reliable in testing.
 
-## Contributing
-
-Found another license type Steam won't let you remove? Open an issue or PR adding a pattern to `AUTO_SKIP_PATTERNS` at the top of the script.
-
 ## Credits
 
 Made by **Yeshith_Goud** (Steam) / **[Yeshith](https://github.com/Yeshith)** (GitHub)
