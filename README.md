@@ -1,4 +1,3 @@
-   <img width="640" height="284" alt="image" src="https://github.com/user-attachments/assets/eec31884-8dd8-449c-99d4-fb76998acae0" />
 # Steam License Remover
 
 A browser console script (also installable as a Tampermonkey/Greasemonkey userscript) that helps you clean up your Steam account's license list — reviewing and removing free games, complimentary DLC, and other licenses you no longer want, safely and interactively.
