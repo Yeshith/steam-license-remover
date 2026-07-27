@@ -42,10 +42,6 @@ Removing licenses in quick succession appears to trigger a temporary rate limit 
 
 Found another license type Steam won't let you remove? Open an issue or PR adding a pattern to `AUTO_SKIP_PATTERNS` at the top of the script.
 
-## License
-
-MIT — see [LICENSE](./LICENSE).
-
 ## Credits
 
 Made by **Yeshith_Goud** (Steam) / **[Yeshith](https://github.com/Yeshith)** (GitHub)
